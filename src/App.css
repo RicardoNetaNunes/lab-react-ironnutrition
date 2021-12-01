@@ -1,3 +1,7 @@
+body {
+  text-align: center; 
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +39,42 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.search {
+  width: 510px;
+  height: 40px;
+  padding: 20px;
+  margin: 15px;
+}
+.add {
+  height: 55px;
+  border-radius: 60%;
+
+}
+
+.addFood {
+  height: 55px;
+  border-radius: 60%;
+  background-color: #282c34;
+ margin: 15px;
+}
+.today {
+  text-align: left;
+  margin-left: 25px;
+}
+
+h1 {
+  font-weight: bolder;
+  font-size: 25px;
+  
+}
+.form {
+  text-align: left;
+  margin: 15px;
+}
+.addP {
+  
+  
+  
 }
